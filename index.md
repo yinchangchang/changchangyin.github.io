@@ -2,50 +2,93 @@
 layout: homepage
 ---
 
-## About Me
+## Short Biography
 
-I am a Ph.D. student at ...
-
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+I'm a second-year Ph.D. student at the Department of Computer Science and Engineering, The Ohio State University (OSU). I'm fortunately working with Prof. [Ping Zhang](https://web.cse.ohio-state.edu/~zhang.10631/) in AIMed (Artificial Intelligence in Medicine) Lab. My research interests focus on data mining, causal inference and their applications in healthcare. 
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to [CVPR 2020](http://cvpr2020.thecvf.com/).
-- **[Feb. 2020]** We will host the [ACM Multimedia Asia 2020](https://mmasia2020.org/) conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to [NeurIPS 2019](https://nips.cc/Conferences/2019).
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to [CVPR 2019](http://cvpr2019.thecvf.com/).
+- **[Jan 2021]** Our paper "[A deep learning framework for drug repurposing via emulating clinical trials on real world patient data](https://rdcu.be/cc2CP)" is published on [Nature Machine Intelligence](https://www.nature.com/natmachintell/), which is featured at [OHIO STATE NEWS](https://news.osu.edu/using-artificial-intelligence-to-find-new-uses-for-existing-medications/).
+- **[Nov 2020]** Our paper "A deep learning framework for drug repurposing via emulating clinical trials on real world patient data" is accepted to [Nature Machine Intelligence](https://www.nature.com/natmachintell/).
+- **[Aug 2020]** Our paper "Estimating Individual Treatment Effects with Time-Varying Confounders" is accepted to [ICDM 2020](http://icdm2020.bigke.org/).
+- **[May 2020]** Our paper "Identifying sepsis subphenotypes via time-aware multi-modal auto-encoder" is accepted to [KDD 2020](https://www.kdd.org/kdd2020/).
 
 ## Publications
-
-- **Mnemonics Training: Multi-Class Incremental Learning without Forgetting**
+- **A deep learning framework for drug repurposing via emulating clinical trials on real world patient data**
   <br>
-  **Yaoyao Liu**, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+  **Ruoqi Liu**, Lai Wei, Ping Zhang
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2020**.
+  <span style="color:red">**Nature Machine Intelligence**</span>, Jan. 2021.
   <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] [[Code](https://github.com/yaoyao-liu/mnemonics)] <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
-
-- **Learning to Self-Train for Semi-Supervised Few-Shot Classification**
+  [[Paper](https://rdcu.be/cc2CP)] [[Code](https://github.com/ruoqi-liu/DeepIPW)]
+   <br>
+  Media coverage: 
+    - Top **5%** of all research ouputs scores by [**Altmetric**](https://nature.altmetric.com/details/97084743) (**17** news outlets, **44** tweeters, etc.)
+    - Reported in *Headline* of [**OHIO STATE NEWS**](https://news.osu.edu/using-artificial-intelligence-to-find-new-uses-for-existing-medications/)
   <br>
-  Xinzhe Li, Qianru Sun, **Yaoyao Liu**, Shibao Zheng, Qin Zhou, Tat-Seng Chua, Bernt Schiele
+  Archived in *IN BRIEF* of [**Nature Reviews Drug Discovery**](https://www.nature.com/articles/d41573-021-00006-w)
+  
+- **Estimating Individual Treatment Effects with Time-Varying Confounders**
   <br>
-  33rd Conference on Neural Information Processing Systems. **NeurIPS 2019**.
+  **Ruoqi Liu**, Changchang Yin, Ping Zhang
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Code](https://github.com/xinzheli1217/learning-to-self-train)]
-
-- **Meta-Transfer Learning for Few-Shot Learning**
+  IEEE International Conference on Data Mining. **ICDM 2020**. (Acceptance rate: 91/930 = 9.8%, regular paper, oral presentation)
   <br>
-  Qianru Sun\*, **Yaoyao Liu\***, Tat-Seng Chua, Bernt Schiele
+  [[Paper](https://arxiv.org/abs/2008.13620)] [[Code](https://github.com/ruoqi-liu/DSW)]
+ 
+- **When deep learning meets causal inference: a computational framework for drug repurposing from real-world data**
   <br>
-  IEEE Conference on Computer Vision and Pattern Recognition. **CVPR 2019**.
+  **Ruoqi Liu**, Lai Wei, Ping Zhang
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)]
-
+  **arXiv Preprint**.
+  <br>
+  [[Paper](https://arxiv.org/abs/2007.10152)] [[Code](https://github.com/ruoqi-liu/DeepIPW)]
+  
+- **Identifying sepsis subphenotypes via time-aware multi-modal auto-encoder**
+  <br>
+  Changchang Yin, **Ruoqi Liu**, Dongdong Zhang, Ping Zhang
+  <br>
+  ACM SIGKDD Conference on Knowledge Discovery and Data Mining. **KDD 2020**. (Acceptance rate: 216/1279 = 16.9%, research track)
+  <br>
+  [[Paper](https://www.medrxiv.org/content/10.1101/2020.07.26.20162214v1.full.pdf)] [[Code](https://github.com/yinchangchang/TAME)] [[Video](https://www.youtube.com/watch?v=XdLOTXL5kCo)]
+ 
+- **Clinical connectivity map for drug repurposing: using laboratory tests to bridge drugs and diseases**
+  <br>
+  Qianlong Wen\*, **Ruoqi Liu\***, Ping Zhang (\*equal contributions)
+  <br>
+  International Conference on Intelligent Biology and Medicine. **ICIBM 2020**.
+  <br>
+  [[Paper](https://arxiv.org/abs/2007.07886)] [[Code](https://github.com/HoytWen/CCMDR)]
+  
+- **Towards early detection of adverse drug reactions: combining pre-clinical drug structures and post-market safety reports**
+  <br>
+  **Ruoqi Liu**, Ping Zhang
+  <br>
+  BMC Medical Informatics and Decision Making (19:279, 2019)
+  <br>
+  [[Paper](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0999-1)] [[Code](https://github.com/ruoqi-liu/LP-SDA)]
+  
+  
+- **Predicting drug-disease associations by using similarity constrained matrix factorization**
+  <br>
+  Wen Zhang, Xiang Yue, Weiran Lin, Wenjian Wu, **Ruoqi Liu**, Feng Huang, Feng Liu
+  <br>
+  BMC Bioinformatics (19:233, 2018)
+  <br>
+  [[Paper](https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-018-2220-4)] [[Web Server](http://www.bioinfotech.cn/SCMFDD)][[Code](https://github.com/xiangyue9607/SCMFDD)]
+  
+- **Predicting drug-disease associations and their therapeutic function based on the drug-disease association bipartite network**
+  <br>
+  Wen Zhang, Xiang Yue, Feng Huang, **Ruoqi Liu**, Yanlin Chen, Feng Huang, Chunyang Ruan
+  <br>
+  Methods (145:51-59, 2018)
+  <br>
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S1046202318300045)]
+  
+  
 ## Services
 
-- Co-organizer: [ACM MM Asia 2020](https://mmasia2020.org/).
-- Conference Reviewers: [NeurIPS 2020](https://neurips.cc/Conferences/2020), and [CVPR 2020](http://cvpr2020.thecvf.com/).
-- Journal Reviewers: [T-PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), and [IJCV](https://www.springer.com/journal/11263).
+- Conference sub reviewer: KDD, IJCAI, AAAI, ICML, ICDM, SDM.
+- Journal sub reviewer: Patterns, Nature Communication, BMC Bioinformatics.
+- Conference reviewer: AMIA
+- Journal reviewer: BMC Medical Informatics and Decision Making
