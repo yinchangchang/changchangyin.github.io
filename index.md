@@ -22,11 +22,7 @@ I'm a second-year Ph.D. student at the Department of Computer Science and Engine
   <br>
   [[Paper](https://rdcu.be/cc2CP)] [[Code](https://github.com/ruoqi-liu/DeepIPW)]
    <br>
-  Media coverage: 
-    - Top **5%** of all research ouputs scores by [**Altmetric**](https://nature.altmetric.com/details/97084743) (**17** news outlets, **44** tweeters, etc.)
-    - Reported in *Headline* of [**OHIO STATE NEWS**](https://news.osu.edu/using-artificial-intelligence-to-find-new-uses-for-existing-medications/)
-  <br>
-  Archived in *IN BRIEF* of [**Nature Reviews Drug Discovery**](https://www.nature.com/articles/d41573-021-00006-w)
+  Selected media coverage: *IN BRIEF* of [**Nature Reviews Drug Discovery**](https://www.nature.com/articles/d41573-021-00006-w), *Headline* of [**OHIO STATE NEWS**](https://news.osu.edu/using-artificial-intelligence-to-find-new-uses-for-existing-medications/), Top **5%** of all research ouputs scores by [**Altmetric**](https://nature.altmetric.com/details/97084743)
   
 - **Estimating Individual Treatment Effects with Time-Varying Confounders**
   <br>
