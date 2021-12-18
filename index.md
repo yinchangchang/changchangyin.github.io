@@ -32,13 +32,13 @@ I'm a third-year Ph.D. student at the Department of Computer Science and Enginee
   <br>
   [[Paper](https://arxiv.org/abs/2008.13620)] [[Code](https://github.com/ruoqi-liu/DSW)]
  
-- **When deep learning meets causal inference: a computational framework for drug repurposing from real-world data**
+<!-- - **When deep learning meets causal inference: a computational framework for drug repurposing from real-world data**
   <br>
   **Ruoqi Liu**, Lai Wei, Ping Zhang
   <br>
   **arXiv Preprint**.
   <br>
-  [[Paper](https://arxiv.org/abs/2007.10152)] [[Code](https://github.com/ruoqi-liu/DeepIPW)]
+  [[Paper](https://arxiv.org/abs/2007.10152)] [[Code](https://github.com/ruoqi-liu/DeepIPW)] -->
   
 - **Identifying sepsis subphenotypes via time-aware multi-modal auto-encoder**
   <br>
@@ -52,7 +52,7 @@ I'm a third-year Ph.D. student at the Department of Computer Science and Enginee
   <br>
   Qianlong Wen\*, **Ruoqi Liu\***, Ping Zhang (\*equal contributions)
   <br>
-  International Conference on Intelligent Biology and Medicine. **ICIBM 2020**.
+  BMC Medical Informatics and Decision Making (21:263, 2021)
   <br>
   [[Paper](https://arxiv.org/abs/2007.07886)] [[Code](https://github.com/HoytWen/CCMDR)]
   
